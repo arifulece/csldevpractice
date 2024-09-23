@@ -1,0 +1,51 @@
+1.	Active Directory Domain Services (AD DS):
+•	Centralizes user and resource management.
+•	Provides authentication and authorization services.
+•	Facilitates Group Policy management for security and configuration.
+2.	File and Storage Services:
+•	Manages file shares and storage solutions.
+•	Supports features like Distributed File System (DFS) for replication and load balancing.
+•	Enables storage management with Storage Spaces and deduplication.
+3.	Web Server (IIS):
+•	Hosts websites and web applications.
+•	Supports various web technologies and frameworks.
+•	Provides features for security, performance, and scalability.
+4.	Remote Desktop Services (RDS):
+•	Allows users to access desktops and applications remotely.
+•	Supports virtualization of desktops and applications.
+•	Enhances productivity for remote workers.
+5.	DNS Server:
+•	Resolves domain names to IP addresses.
+•	Supports Active Directory and network services.
+•	Provides redundancy and load balancing for DNS queries.
+6.	DHCP Server:
+•	Automatically assigns IP addresses to devices on the network.
+•	Simplifies network management and reduces configuration errors.
+•	Supports IP address reservation and lease management.
+7.	Hyper-V:
+•	Enables virtualization of servers and desktops.
+•	Supports the creation and management of virtual machines.
+•	Facilitates resource allocation and isolation.
+8.	Print and Document Services:
+•	Manages printers and print servers.
+•	Provides centralized print management and monitoring.
+•	Supports secure printing and print quotas.
+9.	Network Policy and Access Services (NPAS):
+•	Manages network access policies and authentication.
+•	Supports VPN and remote access solutions.
+•	Provides Network Access Protection (NAP) for compliance.
+10.	Windows Server Update Services (WSUS):
+•	Manages the distribution of updates and patches.
+•	Ensures systems are up-to-date and secure.
+•	Reduces bandwidth usage by downloading updates once.
+11.	Application Server:
+•	Hosts and manages applications, including web applications and services.
+•	Supports features like .NET Framework and COM+ for application development.
+•	Facilitates integration with other services and databases.
+12.	Failover Clustering:
+•	Provides high availability for applications and services.
+•	Supports load balancing and disaster recovery.
+•	Ensures minimal downtime for critical workloads.
+By effectively utilizing these roles, organizations can enhance their IT infrastructure, improve security, and streamline management processes.
+
+
